@@ -18,6 +18,9 @@ pandarallel = "^1.5.1"
 xgboost = "^1.2.0"
 pystan = "^2.19.1"
 fbprophet = "^0.7.1"
+fastai = "^2.0.16"
+pydot = "^1.4.1"
+graphviz = "^0.14.2"
 
 [tool.poetry.dev-dependencies]
 
